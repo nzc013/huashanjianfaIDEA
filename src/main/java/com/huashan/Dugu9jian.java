@@ -6,6 +6,8 @@ public class Dugu9jian {
         System.out.println("独孤九剑好");
         System.out.println("独孤九剑好");
         System.out.println("独孤九剑好");
-        System.out.println("独孤九剑好");
+        System.out.println("辟邪好!!!!!");
+        System.out.println("辟邪好!!!!!");
+        System.out.println("辟邪好!!!!!");
     }
 }
